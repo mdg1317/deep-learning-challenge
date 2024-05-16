@@ -1,7 +1,7 @@
 # deep-learning-challenge
 
 ## Code Sources
-Code in block 3 in both Notebooks taken from StackOverflow: https://stackoverflow.com/questions/27241253/print-the-unique-values-in-every-column-in-a-pandas-dataframe
+Code in block 3 in both Notebooks taken from StackOverflow: https://stackoverflow.com/questions/27241253/print-the-unique-values-in-every-column-in-a-pandas-dataframe  
 lambda function in block 7 in both Notebooks taken from StackOverflow: https://stackoverflow.com/questions/22320356/pandas-get-values-from-column-that-appear-more-than-x-times
 
 # Report: Predicting Successful Alphabet Soup Applicants Using a Neural Network Model
